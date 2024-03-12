@@ -1,0 +1,15 @@
+/Users/efe/Desktop/Taksimetre/Taksimetre/bin/Debug/net7.0/Taksimetre
+/Users/efe/Desktop/Taksimetre/Taksimetre/bin/Debug/net7.0/Taksimetre.deps.json
+/Users/efe/Desktop/Taksimetre/Taksimetre/bin/Debug/net7.0/Taksimetre.runtimeconfig.json
+/Users/efe/Desktop/Taksimetre/Taksimetre/bin/Debug/net7.0/Taksimetre.dll
+/Users/efe/Desktop/Taksimetre/Taksimetre/bin/Debug/net7.0/Taksimetre.pdb
+/Users/efe/Desktop/Taksimetre/Taksimetre/obj/Debug/net7.0/Taksimetre.csproj.AssemblyReference.cache
+/Users/efe/Desktop/Taksimetre/Taksimetre/obj/Debug/net7.0/Taksimetre.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efe/Desktop/Taksimetre/Taksimetre/obj/Debug/net7.0/Taksimetre.AssemblyInfoInputs.cache
+/Users/efe/Desktop/Taksimetre/Taksimetre/obj/Debug/net7.0/Taksimetre.AssemblyInfo.cs
+/Users/efe/Desktop/Taksimetre/Taksimetre/obj/Debug/net7.0/Taksimetre.csproj.CoreCompileInputs.cache
+/Users/efe/Desktop/Taksimetre/Taksimetre/obj/Debug/net7.0/Taksimetre.dll
+/Users/efe/Desktop/Taksimetre/Taksimetre/obj/Debug/net7.0/refint/Taksimetre.dll
+/Users/efe/Desktop/Taksimetre/Taksimetre/obj/Debug/net7.0/Taksimetre.pdb
+/Users/efe/Desktop/Taksimetre/Taksimetre/obj/Debug/net7.0/Taksimetre.genruntimeconfig.cache
+/Users/efe/Desktop/Taksimetre/Taksimetre/obj/Debug/net7.0/ref/Taksimetre.dll
